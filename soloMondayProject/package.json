@@ -1,0 +1,24 @@
+{
+  "type": "commonjs",
+  "name": "solomondayproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "d3"
+  ],
+  "author": "oriianamendez",
+  "license": "ISC",
+  "devDependencies": {
+    "@eslint/js": "^9.4.0",
+    "@jest/globals": "^29.7.0",
+    "@types/eslint__js": "^8.42.3",
+    "@types/jest": "^29.5.12",
+    "axios": "^1.7.2",
+    "eslint": "^8.57.0",
+    "node": "^20.15.0",
+    "typescript": "^5.4.5",
+    "typescript-eslint": "^7.13.0"
+  }
+}
